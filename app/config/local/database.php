@@ -8,10 +8,10 @@ return [
 
 		'sqlite' => [
 			'driver'    => 'sqlite',
-			'database'  => __DIR__.'/../../databasae/local.sqlite',
+			'database'  => __DIR__.'/../../database/local.sqlite',
 			'prefix'    => '',
 		],
-		
+
 	],
 
 ];
